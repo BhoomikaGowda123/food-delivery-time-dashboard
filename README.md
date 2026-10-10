@@ -37,6 +37,7 @@ An interactive Streamlit dashboard built with Python, Pandas, and Plotly. The si
    ```
 
 5. Streamlit will print a local URL (usually `http://localhost:8501`). Open it in your browser.
+dashboard link:https://food-delivery-time-dashboard-cf8dc9kohbfbhappbkibxnw.streamlit.app/
 
 ## Upload to GitHub
 
